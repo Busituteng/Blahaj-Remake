@@ -1,0 +1,39 @@
+{
+  "group": "blahajremake",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "6": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "blahajremake:blue_shark",
+    "count": 1
+  }
+}

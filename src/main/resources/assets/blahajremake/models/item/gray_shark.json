@@ -1,0 +1,6 @@
+{
+  "parent": "blahajremake:custom/gray_shark",
+  "textures": {
+    "3": "blahajremake:items/gray_shork"
+  }
+}

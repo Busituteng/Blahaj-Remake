@@ -1,0 +1,6 @@
+{
+  "parent": "blahajremake:custom/bread",
+  "textures": {
+    "4": "blahajremake:items/bred"
+  }
+}

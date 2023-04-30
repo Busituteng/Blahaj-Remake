@@ -1,0 +1,108 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlueShark",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "blue_shark"
+    },
+    {
+      "name": "BreadPillow",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "bread_pillow"
+    },
+    {
+      "name": "GrayShark",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "gray_shark"
+    },
+    {
+      "name": "BlueShark1",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_shark_1"
+    },
+    {
+      "name": "GrayShark1",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_shark_1"
+    },
+    {
+      "name": "BreadPillow1",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_pillow_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "zh_tw": {
+      "item.blue_shark.name": "藍色鯊魚",
+      "item.bread_pillow.name": "麵包抱枕",
+      "item.gray_shark.name": "灰色鯊魚"
+    },
+    "en_us": {
+      "item.blue_shark.name": "Blue Shark",
+      "item.bread_pillow.name": "Bread Pillow",
+      "item.gray_shark.name": "Gray Shark"
+    },
+    "zh_cn": {
+      "item.blue_shark.name": "蓝色鲨鱼",
+      "item.bread_pillow.name": "面包抱枕",
+      "item.gray_shark.name": "灰色鲨鱼"
+    },
+    "ja_jp": {
+      "item.blue_shark.name": "ブルーサメ",
+      "item.bread_pillow.name": "パンまくら",
+      "item.gray_shark.name": "サメ匹"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "blahajremake",
+    "modName": "BlahajRemake",
+    "version": "0.1.0",
+    "description": "Soft toy, shark mod, 16px.",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/Busituteng/Blahaj-Remake",
+    "license": "GNU Lesser General Public License version 2.1 (LGPLv2.1)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "MCreator, Hibi",
+    "modElementsPackage": "com.hibi.blahaj",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
